@@ -1,16 +1,95 @@
-## Hi there 👋
+# Hi, I'm Danny Thompson 👋
 
-<!--
-**DannyTData/DannyTData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Basketball Analytics | Predictive Modeling | Sports Data Science
 
-Here are some ideas to get you started:
+I'm passionate about using data to support basketball decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current work focuses on predictive modeling, draft analytics, player evaluation, and sports data visualization using R.
+
+My long-term goal is to contribute to an NBA or WNBA front office through basketball operations, analytics, or strategy.
+
+---
+
+# Featured Projects
+
+## 🏀 2026 NBA Draft Value Model
+
+A predictive analytics model evaluating the 2026 NBA Draft class using historical NBA outcomes, college production, advanced efficiency metrics, and physical measurements.
+
+**Highlights**
+
+- Historical logistic regression model
+- Feature engineering
+- Player rankings
+- Draft steals and reaches
+- Team draft grades
+- Publication-ready visualizations
+
+Repository:
+
+https://github.com/DannyTData/2026-nba-draft-value-model
+
+---
+
+## 🏀 NBA Rookie Success Prediction Model
+
+Historical prediction model trained on NBA Draft classes from 2012–2020 to estimate long-term NBA success using pre-draft characteristics.
+
+---
+
+## ✈️ NCAA Airport Accessibility Analytics
+
+Spatial analytics project evaluating NCAA Division I schools by airport accessibility to support travel and scheduling analysis.
+
+---
+
+# Technical Skills
+
+### Languages
+
+- R
+- SQL
+- Python (learning)
+
+### Analytics
+
+- Predictive Modeling
+- Logistic Regression
+- Feature Engineering
+- Data Cleaning
+- Data Visualization
+- Statistical Modeling
+
+### Packages
+
+- tidyverse
+- ggplot2
+- dplyr
+- readxl
+- writexl
+- shiny
+
+---
+
+# Currently Working On
+
+- NBA Draft Analytics
+- Basketball Predictive Modeling
+- Sports Data Visualization
+- Interactive Shiny Dashboards
+
+---
+
+# Connect With Me
+
+LinkedIn
+
+(Insert your LinkedIn URL)
+
+Email
+
+(Professional email)
+
+GitHub
+
+https://github.com/DannyTData
