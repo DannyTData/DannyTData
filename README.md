@@ -35,6 +35,8 @@ https://github.com/DannyTData/2026-nba-draft-value-model
 
 Historical prediction model trained on NBA Draft classes from 2012–2020 to estimate long-term NBA success using pre-draft characteristics.
 
+https://github.com/DannyTData/predicting-nba-career-success
+
 ---
 
 ## ✈️ NCAA Airport Accessibility Analytics
@@ -84,11 +86,11 @@ Spatial analytics project evaluating NCAA Division I schools by airport accessib
 
 LinkedIn
 
-(Insert your LinkedIn URL)
+https://www.linkedin.com/in/danny-f-thompson/
 
 Email
 
-(Professional email)
+dannythompsonIII1983@gmail.com
 
 GitHub
 
