@@ -1,47 +1,62 @@
 # Hi, I'm Danny Thompson 👋
 
-## Basketball Analytics | Predictive Modeling | Sports Data Science
+## 🏀 Aspiring NBA Basketball Operations & Analytics Professional
 
-I'm passionate about using data to support basketball decision-making.
+I build predictive models and interactive decision-support tools using **R**, **Shiny**, and modern sports analytics techniques to evaluate NBA players, draft prospects, and team-building strategies.
 
-My current work focuses on predictive modeling, draft analytics, player evaluation, and sports data visualization using R.
-
-My long-term goal is to contribute to an NBA or WNBA front office through basketball operations, analytics, or strategy.
+My goal is to help front offices make smarter personnel decisions through data-driven analysis.
 
 ---
 
 # Featured Projects
 
-## 🏀 2026 NBA Draft Value Model
+## 🏀 Basketball Analytics Hub ⭐
 
-A predictive analytics model evaluating the 2026 NBA Draft class using historical NBA outcomes, college production, advanced efficiency metrics, and physical measurements.
+**Live Demo:** https://yfazp7-danny-thompson.shinyapps.io/basketball-analytics-hub/
 
-**Highlights**
+Interactive **R Shiny** dashboard that combines multiple basketball analytics projects into a front-office-style application.
 
-- Historical logistic regression model
-- Feature engineering
-- Player rankings
-- Draft steals and reaches
+### Features
+
+- 🏀 Rookie Success Prediction
+- 📈 2026 NBA Draft Value Model
+- 👤 Player Lookup
+- ⚖️ Player Comparison
+- 📋 Draft Rankings
+- 📊 Team Draft Grades
+- 🔄 Future Trade Value Model
+
+**Repository**
+
+https://github.com/DannyTData/basketball_analytics_hub
+
+---
+
+## 📈 2026 NBA Draft Value Model
+
+Developed a predictive model that evaluates the 2026 NBA Draft class using college production, efficiency, physical measurements, and advanced metrics.
+
+### Highlights
+
+- NBA Success Score
+- Draft Value metric
+- Biggest steals & reaches
+- Interactive rankings
 - Team draft grades
-- Publication-ready visualizations
 
-Repository:
+Repository
 
 https://github.com/DannyTData/2026-nba-draft-value-model
 
 ---
 
-## 🏀 NBA Rookie Success Prediction Model
+## 🏀 Predicting NBA Career Success
 
-Historical prediction model trained on NBA Draft classes from 2012–2020 to estimate long-term NBA success using pre-draft characteristics.
+Machine learning project that predicts long-term NBA success using historical player performance and college statistics.
+
+Repository
 
 https://github.com/DannyTData/predicting-nba-career-success
-
----
-
-## ✈️ NCAA Airport Accessibility Analytics
-
-Spatial analytics project evaluating NCAA Division I schools by airport accessibility to support travel and scheduling analysis.
 
 ---
 
@@ -51,47 +66,50 @@ Spatial analytics project evaluating NCAA Division I schools by airport accessib
 
 - R
 - SQL
-- Python (learning)
+
+### Libraries
+
+- Shiny
+- dplyr
+- ggplot2
+- DT
+- readxl
+- tidyr
+- plotly
 
 ### Analytics
 
 - Predictive Modeling
-- Logistic Regression
 - Feature Engineering
 - Data Cleaning
 - Data Visualization
-- Statistical Modeling
-
-### Packages
-
-- tidyverse
-- ggplot2
-- dplyr
-- readxl
-- writexl
-- shiny
+- Sports Analytics
+- Dashboard Development
 
 ---
 
-# Currently Working On
+# Current Focus
 
-- NBA Draft Analytics
-- Basketball Predictive Modeling
-- Sports Data Visualization
-- Interactive Shiny Dashboards
+Currently expanding my basketball analytics portfolio through projects involving:
+
+- NBA Draft Modeling
+- Trade Value Analysis
+- Player Evaluation
+- Team Building Analytics
+- Interactive Front Office Dashboards
 
 ---
 
-# Connect With Me
+# Connect
 
 LinkedIn
 
 https://www.linkedin.com/in/danny-f-thompson/
 
-Email
-
-dannythompsonIII1983@gmail.com
-
 GitHub
 
 https://github.com/DannyTData
+
+---
+
+*"Turning basketball data into better decisions."*
