@@ -6,6 +6,18 @@ I build predictive models and interactive decision-support tools using **R**, **
 
 My goal is to help front offices make smarter personnel decisions through data-driven analysis.
 
+### Portfolio Highlights
+
+🏀 3 Basketball Analytics Projects
+
+💻 1 Live Shiny Application
+
+📈 Predictive Modeling
+
+🧠 NBA Draft Evaluation
+
+📊 Interactive Dashboards
+
 ---
 
 # Featured Projects
