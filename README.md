@@ -1,5 +1,7 @@
 # Hi, I'm Danny Thompson 👋
 
+![Basketball Analytics Banner](images/github-banner.png)
+
 ## 🏀 Basketball Analytics | Predictive Modeling | NBA Draft Research
 
 I'm building a portfolio of basketball analytics tools focused on player evaluation, draft strategy, and front-office decision support.
