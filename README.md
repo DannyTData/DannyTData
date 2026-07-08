@@ -54,6 +54,13 @@ https://github.com/DannyTData/2026-nba-draft-value-model
 
 Machine learning project that predicts long-term NBA success using historical player performance and college statistics.
 
+### Highlights
+- Historical NBA player success prediction
+- Predictive modeling in R
+- Feature engineering
+- Statistical evaluation
+- Foundation for the Draft Value Model
+
 Repository
 
 https://github.com/DannyTData/predicting-nba-career-success
